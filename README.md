@@ -65,7 +65,7 @@ Copy `.env.example` and rename it to `.env`.
 Then update it like this:
 
 ```env
-NEWS_API_KEY=your_actual_api_key_here
+NEWS_API_KEY=716500359e9b4cd8b2d247ec4739d2ea
 ```
 
 ### 4. Run the application

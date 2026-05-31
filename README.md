@@ -42,7 +42,7 @@ news_information_aggregator/
 │   ├── test_article.py
 │   └── test_processor.py
 │
-├── csv output /
+├── data/
 └── screenshots/
 ```
 
